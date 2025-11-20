@@ -18,6 +18,8 @@ The repository contains SQL queries to analyze customer shopping behavior stored
 * **Revenue by Category**: Revenue distribution across different product categories.
 * **Sales by Age Group**: Breakdown of sales by age group.
 
+  ![Screenshot](image/customer_behavior_analysis.png)
+
 ### SQL Queries
 
 The SQL queries provided in this repository analyze customer behavior in the following areas:
@@ -62,3 +64,4 @@ The following table structure is assumed in the database:
 2. Import the `customer_behav` database and the `customer_shopping_behavior` table to your preferred database system (e.g., MySQL, PostgreSQL).
 
 3. Execute the SQL queries in the repository to analyze customer behavior.
+
